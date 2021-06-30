@@ -14,3 +14,7 @@ Here,<br />
 **B** is the distance between two cameras (which we know) <br />
 **f** is the focal length of camera (already known)<br />
 The above equation says that the depth of a point in a scene is inversely proportional to the difference in distance of corresponding image points(disparity)<br />
+## Results:
+![Capture 1](https://user-images.githubusercontent.com/55583932/123926043-20ec7580-d9a9-11eb-8b64-99fe66841011.PNG)
+![Capture](https://user-images.githubusercontent.com/55583932/123926100-2fd32800-d9a9-11eb-9f33-d6db5ca403ff.PNG)
+
